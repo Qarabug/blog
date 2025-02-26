@@ -108,7 +108,7 @@ const config: Config = {
           items: [
             {
               label: "Cheatsheet",
-              to: "/cheatsheet",
+              to: "/",
             },
             {
               label: "Blog",
