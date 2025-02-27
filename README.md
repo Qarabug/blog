@@ -1,41 +1,5 @@
-# Website
+Qarabug platforması, blog məzmununun saxlanması üçün ictimai bir repozitoriyadan istifadə edir. Əgər sizin maraqlı "hack" təklifləriniz və ya bug bounty proqramları ilə bağlı bölüşmək istədiyiniz fikirləriniz varsa, PR (Pull Request) göndərməyə dəvət edirik. Bu, əməkdaşlıq üçün əla bir fürsətdir və həmçinin, geniş icma ilə əlaqə qurmaq üçün bir imkandır. İstər unikal bir zəiflik kəşfi, istərsə də təhlükəsizlik təkmilləşdirmələri və ya bug huntingə yeni yanaşmalar olsun, sizin töhfələrinizə açığıq. 
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+⚠️ ⚠️ ⚠️
 
-### Installation
-
-```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+**Burada, platformamızda iştirak edərkən, tapdığınız bug-lar haqqında məlumat paylaşmamağa və bug bounty məxfilik qaydalarına riayət etməyə diqqət yetirməyinizi xahiş edirik. Bu qaydalara riayət edilməsi həm sizin təhlükəsizliyinizi 🛡️, həm də platformanın etibarlılığını təmin etməyə xidmət edir. ✅ Əks halda, hesabınızın bağlanma riski ❌ yarana bilər və fəaliyyətiniz hüquqi çərçivədə araşdırıla bilər ⚖️👮🏻‍♂️🕵🏻‍♂️.**
