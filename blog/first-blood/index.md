@@ -5,7 +5,9 @@ authors: [qarabug_admin]
 tags: [Qarabug]
 ---
 
+
 <center><img src="./social.png"></center> <br /> 
+
 
 ---
 
@@ -20,6 +22,7 @@ Bu yanaşma, kibertəhlükəsizliyi gücləndirmək üçün daha sərfəli bir h
 Yerli mütəxəssislərə etibar göstərmək şirkətlər üçün böyük üstünlükdür, çünki mütəxəssisin qeyri-etik davranışları halında məsələyə hüquqi qiymət verilə bilər. Bu da mütəxəssisin şəxsiyyəti və fəaliyyəti ilə bağlı məlumatların mövcud olması səbəbindən məsuliyyətin dəqiq müəyyənləşdirilməsini təmin edir. Həmçinin, **Qarabug** layihəsi yerli mütəxəssislər üçün   mühitdə özlərini tanıtmaları və müsbət reputasiya qazanmaları baxımından əhəmiyyətli bir fürsət yaradır.
 
 ---
+
 
 <center><img src="./tester.jpg" width="400" height="400"></center>
 
@@ -41,6 +44,7 @@ Müdaxilə testləri, daha çox "pen test" və ya "etik hakerlik" olaraq da bili
 <i>Müdaxilə testləri, təşkilatların təhlükəsizlik zəifliklərini real kibercinayətkarlar tərəfindən istismar olunmadan əvvəl aşkar edib aradan qaldırmalarına kömək edir, beləliklə onların kibertəhlükəsizlik mövqeyini gücləndirir</i>. Bu testlər adətən ildə bir və ya bir neçə dəfə həyata keçirilir və təşkilatın təhlükəsizlik siyasətləri ilə yanaşı yerli qanunvericilik tələblərinə uyğun olaraq planlaşdırılır. 
 
 ---
+
 
 <center><img src="./vuln.jpeg" width="400" height="400"></center> <br />
 
