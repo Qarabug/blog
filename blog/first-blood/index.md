@@ -5,7 +5,7 @@ authors: [qarabug_admin]
 tags: [Qarabug]
 ---
 
-<center><img src="./social.png"></center> <br /> 
+<center><img src="./social.png" /></center> <br /> 
 
 ---
 
@@ -21,7 +21,7 @@ Yerli mütəxəssislərə etibar göstərmək şirkətlər üçün böyük üst�
 
 ---
 
-<center><img src="./tester.jpg" width="400" height="400"></center>
+<center><img src="./tester.jpg" width="400" height="400" /></center>
 
 ---
 <h2>Müdaxilə Testləri</h2>
@@ -42,7 +42,7 @@ Müdaxilə testləri, daha çox "pen test" və ya "etik hakerlik" olaraq da bili
 
 ---
 
-<center><img src="./vuln.jpeg" width="400" height="400"></center> <br />
+<center><img src="./vuln.jpeg" width="400" height="400" /></center> <br />
 
 
 <h2>Zəiflik Məlumatlandırma Proqramı</h2>
