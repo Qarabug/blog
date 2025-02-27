@@ -9,7 +9,7 @@ tags: [Qarabug]
 
 ---
 
-**Qarabug** platforması, hakerlər və şirkətlər arasında əlaqəni idarə edərək, onlara daha səmərəli əməkdaşlıq və təhlükəsizlik üzərində işləmək üçün mükəmməl bir platforma təqdim edir. Bu platforma şirkətlərə sistemlərinin davamlı olaraq skan və test edilməsini təmin edir, beləliklə yeni zəifliklər ərkən mərhələdə aşkarlanır və qarşısı alınır. Nəticə etibarı ilə, şirkətlər etik hakerlər və müstəqil təhlükəsizlik tədqiqatçıları tərəfindən tapılan təhlükəsizlik zəiflikləri barədə məlumat alır və bu zəifliklər kibercinayətkarlar tərəfindən istismar olunmadan əvvəl düzəldilə bilər.
+**Qarabug** platforması, hakerlər və şirkətlər arasında əlaqəni idarə edərək, onlara daha səmərəli əməkdaşlıq və təhlükəsizlik üzərində işləmək üçün mükəmməl bir platforma təqdim edir. Bu platforma şirkətlərə sistemlərinin davamlı olaraq skan və test edilməsini təmin edir, beləliklə yeni zəifliklər ərkən mərhələdə aşkarlanır və qarşısı alınır. <!-- truncate -->Nəticə etibarı ilə, şirkətlər etik hakerlər və müstəqil təhlükəsizlik tədqiqatçıları tərəfindən tapılan təhlükəsizlik zəiflikləri barədə məlumat alır və bu zəifliklər kibercinayətkarlar tərəfindən istismar olunmadan əvvəl düzəldilə bilər.
 
 **Qarabug** platforması, hakerləri tapdıqları zəiflikləri bildirməyə təşviq edir, çünki burada təqdim olunan proqramlar müxtəlif dəyərlərdə mükafatlar təklif edir. Bu mükafatlar, hakerlər üçün həm motivasiya, həm də əmək haqqı kimi bir təşviq rolunu oynayır. **Qarabug** həmçinin, müxtəlif büdcələrə uyğun paketlər təqdim edərək, kiçik və orta ölçülü təşkilatların da bu platformadan faydalanmasını təmin edir.
 
