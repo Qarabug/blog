@@ -38,7 +38,7 @@ const config: Config = {
         docs: {
           routeBasePath: "/cheatsheet",
           sidebarPath: "./sidebars.ts",
-          editUrl: "https://github.com/Qarabug/blog",
+          editUrl: "https://github.com/Qarabug/blog/tree/master",
         },
         blog: {
           routeBasePath: "/",
@@ -49,7 +49,7 @@ const config: Config = {
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/Qarabug/blog",
+          editUrl: "https://github.com/Qarabug/blog/tree/master",
           // Useful options to enforce blogging best practices
           onInlineTags: "warn",
           onInlineAuthors: "warn",
