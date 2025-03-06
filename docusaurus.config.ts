@@ -36,12 +36,12 @@ const config: Config = {
       "@docusaurus/preset-classic",
       {
         docs: {
-          routeBasePath: "/",
+          routeBasePath: "/cheatsheet",
           sidebarPath: "./sidebars.ts",
-          editUrl:
-            "https://github.com/Qarabug/blog",
+          editUrl: "https://github.com/Qarabug/blog/tree/master",
         },
         blog: {
+          routeBasePath: "/",
           showReadingTime: true,
           feedOptions: {
             type: ["rss", "atom"],
@@ -49,8 +49,7 @@ const config: Config = {
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/Qarabug/blog",
+          editUrl: "https://github.com/Qarabug/blog/tree/master",
           // Useful options to enforce blogging best practices
           onInlineTags: "warn",
           onInlineAuthors: "warn",
@@ -73,13 +72,13 @@ const config: Config = {
         src: "img/logo.svg",
       },
       items: [
+        { to: "/", label: "Blog", position: "left" },
         {
           type: "docSidebar",
           sidebarId: "tutorialSidebar",
           position: "left",
           label: "Cheatsheet",
         },
-        { to: "/blog", label: "Blog", position: "left" },
         {
           href: "https://github.com/Qarabug/blog",
           label: "GitHub",
@@ -107,12 +106,12 @@ const config: Config = {
           title: "More",
           items: [
             {
-              label: "Cheatsheet",
+              label: "Blog",
               to: "/",
             },
             {
-              label: "Blog",
-              to: "/blog",
+              label: "Cheatsheet",
+              to: "/cheatsheet",
             },
             {
               label: "GitHub",

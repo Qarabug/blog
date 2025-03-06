@@ -10,9 +10,10 @@ tags: [Qarabug]
 
 
 
+
 ---
 
-**Qarabug** platforması, hakerlər və şirkətlər arasında əlaqəni idarə edərək, onlara daha səmərəli əməkdaşlıq və təhlükəsizlik üzərində işləmək üçün mükəmməl bir platforma təqdim edir. Bu platforma şirkətlərə sistemlərinin davamlı olaraq skan və test edilməsini təmin edir, beləliklə yeni zəifliklər ərkən mərhələdə aşkarlanır və qarşısı alınır. Nəticə etibarı ilə, şirkətlər etik hakerlər və müstəqil təhlükəsizlik tədqiqatçıları tərəfindən tapılan təhlükəsizlik zəiflikləri barədə məlumat alır və bu zəifliklər kibercinayətkarlar tərəfindən istismar olunmadan əvvəl düzəldilə bilər.
+**Qarabug** platforması, hakerlər və şirkətlər arasında əlaqəni idarə edərək, onlara daha səmərəli əməkdaşlıq və təhlükəsizlik üzərində işləmək üçün mükəmməl bir platforma təqdim edir. Bu platforma şirkətlərə sistemlərinin davamlı olaraq skan və test edilməsini təmin edir, beləliklə yeni zəifliklər ərkən mərhələdə aşkarlanır və qarşısı alınır. <!-- truncate -->Nəticə etibarı ilə, şirkətlər etik hakerlər və müstəqil təhlükəsizlik tədqiqatçıları tərəfindən tapılan təhlükəsizlik zəiflikləri barədə məlumat alır və bu zəifliklər kibercinayətkarlar tərəfindən istismar olunmadan əvvəl düzəldilə bilər.
 
 **Qarabug** platforması, hakerləri tapdıqları zəiflikləri bildirməyə təşviq edir, çünki burada təqdim olunan proqramlar müxtəlif dəyərlərdə mükafatlar təklif edir. Bu mükafatlar, hakerlər üçün həm motivasiya, həm də əmək haqqı kimi bir təşviq rolunu oynayır. **Qarabug** həmçinin, müxtəlif büdcələrə uyğun paketlər təqdim edərək, kiçik və orta ölçülü təşkilatların da bu platformadan faydalanmasını təmin edir.
 
@@ -23,6 +24,7 @@ Bu yanaşma, kibertəhlükəsizliyi gücləndirmək üçün daha sərfəli bir h
 Yerli mütəxəssislərə etibar göstərmək şirkətlər üçün böyük üstünlükdür, çünki mütəxəssisin qeyri-etik davranışları halında məsələyə hüquqi qiymət verilə bilər. Bu da mütəxəssisin şəxsiyyəti və fəaliyyəti ilə bağlı məlumatların mövcud olması səbəbindən məsuliyyətin dəqiq müəyyənləşdirilməsini təmin edir. Həmçinin, **Qarabug** layihəsi yerli mütəxəssislər üçün   mühitdə özlərini tanıtmaları və müsbət reputasiya qazanmaları baxımından əhəmiyyətli bir fürsət yaradır.
 
 ---
+
 
 <center><img src="./tester.jpg" width="400" height="400" /></center>
 
@@ -44,6 +46,7 @@ Müdaxilə testləri, daha çox "pen test" və ya "etik hakerlik" olaraq da bili
 <i>Müdaxilə testləri, təşkilatların təhlükəsizlik zəifliklərini real kibercinayətkarlar tərəfindən istismar olunmadan əvvəl aşkar edib aradan qaldırmalarına kömək edir, beləliklə onların kibertəhlükəsizlik mövqeyini gücləndirir</i>. Bu testlər adətən ildə bir və ya bir neçə dəfə həyata keçirilir və təşkilatın təhlükəsizlik siyasətləri ilə yanaşı yerli qanunvericilik tələblərinə uyğun olaraq planlaşdırılır. 
 
 ---
+
 
 <center><img src="./vuln.jpeg" width="400" height="400" /></center> <br />
 
