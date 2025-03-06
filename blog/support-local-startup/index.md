@@ -23,6 +23,6 @@ tags: [Qarabug]
 
 <h1>Azerbaycanda ciddi ilk addım GOV.AZ ölkə səviyyəsində boşluqların mükafatlandırma proqramı!</h1>
 
-**XRİTDX** **Qarabug** vasitəsilə ölkə üzrə (*.gov.az) domenlərində boşluqların aşkarlanması üzrə mükafat proqramını elan edib. Proqramın detalları, mükafatlar və digər şərtlər [**Qarabug** platformasında]() hər kəsin istifadəsinə açıq olacaq. Hazırda platformada 250-dən çox mütəxəssisin müraciəti mövcuddur və böyük əksəriyyəti təsdiqlənərək artıq platformada aktivdir. Digər mütəxəssislərin profilləri isə növbə ilə sistəmdə təsdiqlənilir. Proqram çərçivəsində ümumilikdə 20,000 AZN mükafat fondu və əlavə tanınma mükafatları vardır.
+**XRİTDX** **Qarabug** vasitəsilə ölkə üzrə (*.gov.az) domenlərində boşluqların aşkarlanması üzrə mükafat proqramını elan edib. Proqramın detalları, mükafatlar və digər şərtlər [**Qarabug** platformasında](https://www.qarabug.az/gov-az) hər kəsin istifadəsinə açıq olacaq. Hazırda platformada 250-dən çox mütəxəssisin müraciəti mövcuddur və böyük əksəriyyəti təsdiqlənərək artıq platformada aktivdir. Digər mütəxəssislərin profilləri isə növbə ilə sistəmdə təsdiqlənilir. Proqram çərçivəsində ümumilikdə 20,000 AZN mükafat fondu və əlavə tanınma mükafatları vardır.
 
 **XRİTDX** və **Qarabug** arasındakı əməkdaşlıq digər texnologiya sahəsindəki qurumlar üçün nümunə olmalıdır. Onlar bu modeli öyrənməli və yerli startaplara güvənərək, heç bir tərəddüd etmədən və aktiv şəkildə müstəsna əməli dəstək göstərməlidirlər!
