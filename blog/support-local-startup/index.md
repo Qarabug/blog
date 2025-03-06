@@ -5,7 +5,7 @@ authors: [qarabug_admin]
 tags: [Qarabug]
 ---
 
-<center><img src="./logo-4.png" /></center> <br /> 
+<center><img src={require("./logo-4.png").default} /></center> <br /> 
 
 ---
 
@@ -13,7 +13,7 @@ tags: [Qarabug]
 
 ---
 
-<center><img src="./social.png" /></center> <br /> 
+<center><img src={require("./social.png").default} /></center> <br /> 
 
 ---
 
