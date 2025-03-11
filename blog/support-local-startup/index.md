@@ -1,6 +1,6 @@
 ---
 slug: support-local-startup   
-title: Azerbaycanda ciddi ilk addım GOV.AZ ölkə səviyyəsində CTF! XRİTDX və Qarabug. 
+title: Azerbaycanda ciddi ilk addım GOV.AZ ölkə səviyyəsində boşluqların mükafatlandırma proqramı!! XRİTDX və Qarabug. 
 authors: [qarabug_admin]
 tags: [Qarabug]
 ---
